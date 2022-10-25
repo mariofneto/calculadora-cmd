@@ -1,0 +1,15 @@
+C:\AprendendoC#\teste\bin\Debug\net6.0\teste.exe
+C:\AprendendoC#\teste\bin\Debug\net6.0\teste.deps.json
+C:\AprendendoC#\teste\bin\Debug\net6.0\teste.runtimeconfig.json
+C:\AprendendoC#\teste\bin\Debug\net6.0\teste.dll
+C:\AprendendoC#\teste\bin\Debug\net6.0\teste.pdb
+C:\AprendendoC#\teste\obj\Debug\net6.0\teste.csproj.AssemblyReference.cache
+C:\AprendendoC#\teste\obj\Debug\net6.0\teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\AprendendoC#\teste\obj\Debug\net6.0\teste.AssemblyInfoInputs.cache
+C:\AprendendoC#\teste\obj\Debug\net6.0\teste.AssemblyInfo.cs
+C:\AprendendoC#\teste\obj\Debug\net6.0\teste.csproj.CoreCompileInputs.cache
+C:\AprendendoC#\teste\obj\Debug\net6.0\teste.dll
+C:\AprendendoC#\teste\obj\Debug\net6.0\refint\teste.dll
+C:\AprendendoC#\teste\obj\Debug\net6.0\teste.pdb
+C:\AprendendoC#\teste\obj\Debug\net6.0\teste.genruntimeconfig.cache
+C:\AprendendoC#\teste\obj\Debug\net6.0\ref\teste.dll
